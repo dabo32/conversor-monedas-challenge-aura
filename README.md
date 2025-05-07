@@ -6,4 +6,8 @@ Estoy construyendo un Conversor de Monedas en Java que obtiene tasas de cambio e
 Resolverá el problema de la conversión manual de monedas, ofreciendo tasas actualizadas de forma automática. Al integrar Exchange Rate API, aseguraré que los datos sean confiables y accesibles sin necesidad de cálculos externos
 
 ## Características
+- Conversión de Divisas
+- Selección de Divisas
+- Obtención Dinámica de Divisas
+- Obtención Dinámica de Tasas de Cambio
 - Pendiente...
