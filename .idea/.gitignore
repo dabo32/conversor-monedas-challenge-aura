@@ -1,0 +1,27 @@
+# .gitignore
+# Directorios de IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Directorios de compilación y empaquetado
+/target/
+/out/
+*.jar
+*.war
+*.zip
+*.tar.gz
+
+# Archivos de log
+*.log
+
+# Archivos de configuración de Maven/Gradle
+.gradle/
+build/
+gradlew
+gradlew.bat
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
